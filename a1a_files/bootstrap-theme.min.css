@@ -1,0 +1,5 @@
+/* Effective stylesheet produced by snapshot save */
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus { background-color: rgb(232, 232, 232); background-image: linear-gradient(to bottom, rgb(245, 245, 245) 0px, rgb(232, 232, 232) 100%); background-repeat: repeat-x; }
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus { background-color: rgb(53, 126, 189); background-image: linear-gradient(to bottom, rgb(66, 139, 202) 0px, rgb(53, 126, 189) 100%); background-repeat: repeat-x; }
+.navbar-default { background-image: linear-gradient(to bottom, rgb(255, 255, 255) 0px, rgb(248, 248, 248) 100%); background-repeat: repeat-x; border-radius: 4px; box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.15) inset, 0px 1px 5px rgba(0, 0, 0, 0.075); }
+.navbar-brand, .navbar-nav > li > a { text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.25); }

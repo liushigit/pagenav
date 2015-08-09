@@ -1,0 +1,6 @@
+/* Effective stylesheet produced by snapshot save */
+html, body { height: 100%; }
+#wrap { min-height: 100%; height: auto ! important; margin: 0px auto -84px; padding: 0px 0px 80px; }
+#footer { height: 60px; }
+#footer p { margin-top: 24px; }
+.muted { color: rgb(153, 153, 153); }
